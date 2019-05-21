@@ -10,3 +10,4 @@ Contents:
  1- Introduction  
  2- Intallation and which Tableau product to be chosen?  
  3- Connecting the Data  
+Updates are here :point_down::point_down::point_down:
