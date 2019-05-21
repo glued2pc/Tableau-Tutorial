@@ -5,7 +5,7 @@ This respositry is being used to collect sample data sets and work on public pro
 
 Install Tableau Public from here : https://public.tableau.com/en-us/s/download   
 Download the Sample-Superstore Dataset.  
-:sunglasses: You are all set now to master Tableau:sunglasses:  
+:sunglasses: You are all set to master Tableau:sunglasses:  
 Contents:  
  1- Introduction  
  2- Intallation and which Tableau product to be chosen?  
